@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="120"
+   height="120"
+   viewBox="0 0 31.749999 31.75"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.2 (76b9e6a115, 2022-02-25)"
+   sodipodi:docname="russia.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     height="120px"
+     units="px"
+     inkscape:zoom="3.0075196"
+     inkscape:cx="156.44121"
+     inkscape:cy="56.026234"
+     inkscape:window-width="1848"
+     inkscape:window-height="1016"
+     inkscape:window-x="72"
+     inkscape:window-y="147"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2">
+    <rect
+       x="14.151114"
+       y="15.479774"
+       width="100.76886"
+       height="93.969377"
+       id="rect2953" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <text
+       xml:space="preserve"
+       transform="scale(0.26458333)"
+       id="text2951"
+       style="fill:black;fill-opacity:1;line-height:1.25;stroke:none;font-family:sans-serif;font-style:normal;font-weight:normal;font-size:40px;white-space:pre;shape-inside:url(#rect2953)" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:9.33772px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.233443"
+       x="4.7697606"
+       y="9.9875898"
+       id="text3883"
+       transform="scale(0.7605944,1.3147612)"><tspan
+         sodipodi:role="line"
+         id="tspan3881"
+         style="stroke-width:0.233443"
+         x="4.7697606"
+         y="9.9875898">pedo</tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.233443"
+         x="4.7697606"
+         y="21.65974"
+         id="tspan3885">Russia</tspan></text>
+  </g>
+</svg>
